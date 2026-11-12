@@ -1,1 +1,1 @@
-# projekt-casove-rady
+# Projekt na predmet Časové rady
